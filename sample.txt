@@ -1,1 +1,2 @@
 read sample
+read sample.txt
