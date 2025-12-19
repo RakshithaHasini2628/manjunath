@@ -1,2 +1,3 @@
 read sample
 read sample.txt
+hi
